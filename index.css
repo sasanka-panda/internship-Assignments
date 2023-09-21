@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  /* background-color: #f0f0f0; */
+  margin: 100px;
+  background-image: linear-gradient(45deg, black, transparent);
+}
+
+h1 {
+  color: #000000;
+}
+
+.artist-card {
+  border: 3px solid #000000;
+  margin: 10px;
+  background-color: #fff;
+}
+
+.artist-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.artist-genres {
+  font-size: 20px;
+  color: #000000;
+}
